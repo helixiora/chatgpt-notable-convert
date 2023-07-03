@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Temporary files
+.temp/
+
+# Output directory
+output_dir/
+
+# Other
+.DS_Store
+
+*.zip
